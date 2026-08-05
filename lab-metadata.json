@@ -1,0 +1,22 @@
+{
+  "week": "week-03",
+  "title": "LAB 03 — Responsive Web UI & Form Interaction",
+  "sourceOrigin": "course-starter",
+  "status": "ready",
+  "testStatus": "pass",
+  "plannedTag": "lab-03-submission-v1",
+  "sourcePath": "source/",
+  "evidencePath": "evidence/",
+  "publishPath": "publish/",
+  "pagesHubUrl": "",
+  "pagesResultUrl": "",
+  "pullRequestUrl": "",
+  "notes": [
+    "Source copied from engse203-lab/labs/week-03-responsive-ui/lab3/starter.",
+    "Root-level source/evidence/publish structure was requested by the user instead of labs/week-03/.",
+    "Request Type options are Frontend Developer, Backend Developer, Full-Stack Developer and UX/UI Designer as provided by the user.",
+    "JavaScript entry file is source/src/app.js and includes comments for TODO 1 through TODO 6.",
+    "JavaScript syntax check, Vite production build and Playwright UI behavior checks passed.",
+    "Build output is available in publish/."
+  ]
+}
